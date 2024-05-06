@@ -1,4 +1,4 @@
-# Installation Guied
+# Installation Guide
 1) Unzip folder
 2) Right click on Project folder directory -> Select “New terminal at folder” -> In terminal run “pod install” command. (This will install required frameworks)
 3) Once pods install successfully -> Double click on VideoSDKRTC_Example.xcworkspace (Note: Need MAC OS and Xcode. Run this app on real device so it requires provisioning profile)
